@@ -1,0 +1,4 @@
+{
+    "mongoUrl": "mongodb+srv://carlos:introapp@introapp.ekkgobo.mongodb.net/?retryWrites=true&w=majority",
+    "port": "5000"
+}
